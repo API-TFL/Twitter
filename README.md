@@ -9,7 +9,7 @@ The aim of this class is simple. You need to:
 - Grab your access tokens from the twitter developer site
 - [Choose a twitter API URL to make the request to](https://dev.twitter.com/docs/api/1.1/)
 
-You really can't get much simpler than that.
+It really can't get much simpler than that.
 
 Installation
 ------------
@@ -29,7 +29,7 @@ Of course, you'll then need to run `php composer.phar update`.
 How To Use
 ----------
 
-See "example.php" file for pratical usage example.
+See "example.php" file for practical example usage.
 
 #### Set access tokens ####
 
